@@ -1,0 +1,7 @@
+[ansible]
+localhost ansible_connection=local
+
+[win]
+winl ansible_host=10.56.1.10
+winl ansible_host=10.56.1.22
+
